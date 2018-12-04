@@ -6,7 +6,7 @@ public class randomStuff
        //cast a random number to an integer
        int age = (int)(Math.random()*8)+(367);
        
-       System.out.println("the number is: " + age);
+       System.out.println("*Really Obvious Change* " + age);
     }
        
     }
